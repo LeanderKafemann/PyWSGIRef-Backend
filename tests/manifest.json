@@ -1,0 +1,16 @@
+{
+  "lang": "de-de",
+  "name": "PyWSGIRef Test",
+  "short_name": "test",
+  "description": "Test PWA-Manifest für PyWSGIRef",
+  "orientation": "landscape-primary",
+  "start_url": "localhost:8000/hello",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": ".favicon.ico",
+      "type": "image/ico",
+      "sizes": "512x512"
+    }
+  ]
+}
